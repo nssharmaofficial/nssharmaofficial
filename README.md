@@ -28,3 +28,4 @@ I'm a self-taught passionate developer from Slovakia 🇸🇰
 <br />
 <br />
 
+![Profile views](https://gpvc.arturio.dev/natasabrisudova)
