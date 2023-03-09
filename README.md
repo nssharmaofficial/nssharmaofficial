@@ -1,4 +1,4 @@
-I'm a self-taught passionate developer from Slovakia 🇸🇰
+I'm a self-taught passionate developer from Slovakia 
 
 <br />
 
