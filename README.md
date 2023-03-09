@@ -6,8 +6,6 @@ I'm a self-taught passionate developer from Slovakia 🇸🇰
 
 - 👩‍🎓 Student at [University of Siena](https://www.unisi.it/)
 
-- 🩺 Implementing AI in medicine is my passion 
-
 - 💬 Ask me about anything [here](https://github.com/natasabrisudova/natasabrisudova/issues)
 
 
