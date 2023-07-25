@@ -1,12 +1,9 @@
-I'm a self-taught passionate developer from Slovakia 
-
 <br />
 
 **About me**
 
 - 👩‍🎓 Student at [University of Siena](https://www.unisi.it/)
 
-- 💬 Ask me about anything [here](https://github.com/natasabrisudova/natasabrisudova/issues)
 
 
 <br />
@@ -14,4 +11,3 @@ I'm a self-taught passionate developer from Slovakia
 <br />
 
 
-![Profile views](https://gpvc.arturio.dev/natasabrisudova)
