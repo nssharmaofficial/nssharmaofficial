@@ -3,16 +3,8 @@
 </p>
 
 
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-<br>
-
 **About me**
 
-- :mortar_board: Student at [University of Siena](https://www.unisi.it/)
 - :computer: AI Engineer
 - :point_right: [Explore more about me](https://linktr.ee/nssharma) 
 
