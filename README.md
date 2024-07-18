@@ -1,17 +1,20 @@
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=000000&width=370&height=100&lines=Hi+%2C+I'm+Natasha+%F0%9F%91%8B" alt="Typing SVG" /></a>
-</p>
+## Welcome to my profile | नमस्ते 🙏
 
+[![](https://img.shields.io/badge/LinkedIn-nssharmaofficial-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/nssharmaofficial/)
+[![](https://img.shields.io/badge/Gmail-nssharma.official%40gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black)](mailto:nssharma.official@gmail.com)
+[![](https://img.shields.io/badge/Hashnode-nssharma-2962FF?logo=hashnode&logoColor=2962FF&labelColor=black)](https://nssharma.hashnode.dev/)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-nssharmaofficial-FFD21E?logo=huggingface&logoColor=FFD21E&labelColor=black)](https://huggingface.co/nssharmaofficial)
+[![](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://nssharmaofficial.github.io/)
 
-**About me**
+![image](https://github.com/user-attachments/assets/f7264b41-0e83-4de1-8511-1e599580f5df)
 
-- :computer: AI Engineer
-- :point_right: [Explore more about me](https://linktr.ee/nssharma) 
+## About me
 
+Hard‐working flexible, detail‐orientated and responsible AI engineer. During my previous education
+and experience I have gained organizational skills, a better sense of time management and the
+ability to work under pressure. I love to learn new things and challenge myself constantly.
 
+:point_right: [Explore more about me](https://linktr.ee/nssharma) 
 
-<br />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nssharmaofficial&layout=compact&theme=buefy&hide_border=false" />
-<br />
-
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
