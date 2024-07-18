@@ -6,7 +6,7 @@
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-nssharmaofficial-FFD21E?logo=huggingface&logoColor=FFD21E&labelColor=black)](https://huggingface.co/nssharmaofficial)
 [![](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://nssharmaofficial.github.io/)
 
-![image](https://github.com/user-attachments/assets/f7264b41-0e83-4de1-8511-1e599580f5df)
+![image](https://github.com/user-attachments/assets/d02f16bf-5203-4f04-862d-f69ac225cc36)
 
 ## About me
 
