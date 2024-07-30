@@ -16,5 +16,5 @@ ability to work under pressure. I love to learn new things and challenge myself 
 
 :point_right: [Explore more about me](https://linktr.ee/nssharma) 
 
-<a href="[https://www.buymeacoffee.com/drkostas](https://buymeacoffee.com/nssharma)" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://buymeacoffee.com/nssharma" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
