@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/Gmail-nssharma.official%40gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black)](mailto:nssharma.official@gmail.com)
 [![](https://img.shields.io/badge/Hashnode-nssharma-2962FF?logo=hashnode&logoColor=2962FF&labelColor=black)](https://nssharma.hashnode.dev/)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-nssharmaofficial-FFD21E?logo=huggingface&logoColor=FFD21E&labelColor=black)](https://huggingface.co/nssharmaofficial)
-[![](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://nssharmaofficial.github.io/)
+[![](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://nssharma.com/)
 
 ![image](https://github.com/user-attachments/assets/d02f16bf-5203-4f04-862d-f69ac225cc36)
 
